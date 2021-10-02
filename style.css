@@ -6269,7 +6269,7 @@ body {
   /*font-style : italic;*/
   position: flex;
   color: var(--accentColor);
-  padding: 0px;
+  padding: 10px;
   width: 100%;
   background-color: var(--bgColor);
   text-align: center;
